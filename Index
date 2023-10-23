@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Glosario de conceptos de redes y comunicaciónes</title>
+        <link rel="icon" href="imagenes/icono_web1.png" type="image/png" sizes="20x20">
+        <meta charset="utf-8">
+        <meta name="description" content="Esta es un ejemplo de mi hoja de vida en HTML con cabeceras y pies y secciones en el cuerpo de la página">
+        <meta name="keyworks" content="HTML, CSS, JavaScript, web, página, curriculum"> 
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+
+    </head>
+
+</html>

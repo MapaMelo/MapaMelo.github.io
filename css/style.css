@@ -1,0 +1,57 @@
+
+   body{
+    background: #fdfcdd;
+    width: 1000px;
+    margin: 0 auto;
+    } 
+    figure{
+        width: 200px;
+        height: 200px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+        background: rgb(213, 83, 83);
+        float: left;
+        transition: 3s;
+        margin: 0;
+       }
+       #titulo{
+        width: 800px;
+        height: 100px;
+        background: rgb(242, 247, 153);
+        float: left;
+       }
+       #subtitulo{
+        width: 800px;
+        height: 100px;
+        background: rgb(242, 247, 153);
+        float: left;
+       } 
+
+       #titulo p{
+        font-size: 45px;
+        margin-top: 20px;
+        margin-left: 60px;
+        font-weight: bold;
+        }
+        #subtitulo p{
+        font-size: 30px;
+        margin-left: 60px;
+        font-weight: bold;
+        } 
+       
+
+
+        nav ul li{
+            display: inline-block;
+            margin: 5px;
+            }
+            
+            nav ul li a:hover{
+            font-size: 15px;
+            color:rgb(255, 0, 0);
+            }
+            nav ul li #contacto:hover{
+            font-size: 15px;
+            color: red;
+            } 
